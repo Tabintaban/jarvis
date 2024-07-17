@@ -77,7 +77,9 @@ See LICENSE.txt file for more details.
 [![Video Title](https://img.youtube.com/vi/pTDTIkLRQKQ/0.jpg)](https://www.youtube.com/watch?v=pTDTIkLRQKQ)
 6) https://www.youtube.com/watch?v=PvbzrEaSm3s
 [![Video Title](https://img.youtube.com/vi/PvbzrEaSm3s/0.jpg)](https://www.youtube.com/watch?v=PvbzrEaSm3s)
-7) https://www.youtube.com/watch?v=E5wbrow870o
+7) https://www.youtube.com/watch?v=mzL9BY1D2L0
+[![Video Title](https://img.youtube.com/vi/mzL9BY1D2L0/0.jpg)](https://www.youtube.com/watch?v=mzL9BY1D2L0)
+8) https://www.youtube.com/watch?v=E5wbrow870o
 [![Video Title](https://img.youtube.com/vi/E5wbrow870o/0.jpg)](https://www.youtube.com/watch?v=E5wbrow870o)
 
 https://www.youtube.com/watch?v=8dXuf-vuxMA
@@ -88,10 +90,7 @@ https://www.youtube.com/watch?v=Pmu0vmrXEEY
 [![Video Title](https://img.youtube.com/vi/Pmu0vmrXEEY/0.jpg)](https://www.youtube.com/watch?v=Pmu0vmrXEEY)
 https://www.youtube.com/watch?v=BJ5UTshqHzU
 [![Video Title](https://img.youtube.com/vi/BJ5UTshqHzU/0.jpg)](https://www.youtube.com/watch?v=BJ5UTshqHzU)
-https://www.youtube.com/watch?v=E5wbrow870o
-[![Video Title](https://img.youtube.com/vi/E5wbrow870o/0.jpg)](https://www.youtube.com/watch?v=E5wbrow870o)
-https://www.youtube.com/watch?v=mzL9BY1D2L0
-[![Video Title](https://img.youtube.com/vi/mzL9BY1D2L0/0.jpg)](https://www.youtube.com/watch?v=mzL9BY1D2L0)
-https://www.youtube.com/watch?v=pTDTIkLRQKQ
-[![Video Title](https://img.youtube.com/vi/pTDTIkLRQKQ/0.jpg)](https://www.youtube.com/watch?v=pTDTIkLRQKQ)
+
+
+
 
