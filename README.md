@@ -65,23 +65,25 @@ The last Python version commit can be found [here](https://github.com/Tabintaban
 See LICENSE.txt file for more details.
 
 ## Ссылки на Видео
-https://www.youtube.com/watch?v=Z5mXFkIKwmM
+4) https://www.youtube.com/watch?v=Z5mXFkIKwmM
 [![Video Title](https://img.youtube.com/vi/Z5mXFkIKwmM/0.jpg)](https://www.youtube.com/watch?v=Z5mXFkIKwmM)
-https://www.youtube.com/watch?v=XTeGvaDaraI
+3) https://www.youtube.com/watch?v=XTeGvaDaraI
 [![Video Title](https://img.youtube.com/vi/XTeGvaDaraI/0.jpg)](https://www.youtube.com/watch?v=XTeGvaDaraI)
-https://www.youtube.com/watch?v=YeS755SPSI8
+1) https://www.youtube.com/watch?v=YeS755SPSI8
 [![Video Title](https://img.youtube.com/vi/YeS755SPSI8/0.jpg)](https://www.youtube.com/watch?v=YeS755SPSI8)
+2) https://www.youtube.com/watch?v=BCeNEqH_15I
+[![Video Title](https://img.youtube.com/vi/BCeNEqH_15I/0.jpg)](https://www.youtube.com/watch?v=BCeNEqH_15I)
 https://www.youtube.com/watch?v=8dXuf-vuxMA
 [![Video Title](https://img.youtube.com/vi/8dXuf-vuxMA/0.jpg)](https://www.youtube.com/watch?v=8dXuf-vuxMA)
 https://www.youtube.com/watch?v=Aynk3YSdqzo
 [![Video Title](https://img.youtube.com/vi/Aynk3YSdqzo/0.jpg)](https://www.youtube.com/watch?v=Aynk3YSdqzo)
 https://www.youtube.com/watch?v=Pmu0vmrXEEY
 [![Video Title](https://img.youtube.com/vi/Pmu0vmrXEEY/0.jpg)](https://www.youtube.com/watch?v=Pmu0vmrXEEY)
-https://www.youtube.com/watch?v=PvbzrEaSm3s
+6) https://www.youtube.com/watch?v=PvbzrEaSm3s
 [![Video Title](https://img.youtube.com/vi/PvbzrEaSm3s/0.jpg)](https://www.youtube.com/watch?v=PvbzrEaSm3s)
 https://www.youtube.com/watch?v=BJ5UTshqHzU
 [![Video Title](https://img.youtube.com/vi/BJ5UTshqHzU/0.jpg)](https://www.youtube.com/watch?v=BJ5UTshqHzU)
-https://www.youtube.com/watch?v=pTDTIkLRQKQ
+5) https://www.youtube.com/watch?v=pTDTIkLRQKQ
 [![Video Title](https://img.youtube.com/vi/pTDTIkLRQKQ/0.jpg)](https://www.youtube.com/watch?v=pTDTIkLRQKQ)
 https://www.youtube.com/watch?v=E5wbrow870o
 [![Video Title](https://img.youtube.com/vi/E5wbrow870o/0.jpg)](https://www.youtube.com/watch?v=E5wbrow870o)
@@ -89,5 +91,5 @@ https://www.youtube.com/watch?v=mzL9BY1D2L0
 [![Video Title](https://img.youtube.com/vi/mzL9BY1D2L0/0.jpg)](https://www.youtube.com/watch?v=mzL9BY1D2L0)
 https://www.youtube.com/watch?v=pTDTIkLRQKQ
 [![Video Title](https://img.youtube.com/vi/pTDTIkLRQKQ/0.jpg)](https://www.youtube.com/watch?v=pTDTIkLRQKQ)
-https://www.youtube.com/watch?v=E5wbrow870o
+7) https://www.youtube.com/watch?v=E5wbrow870o
 [![Video Title](https://img.youtube.com/vi/E5wbrow870o/0.jpg)](https://www.youtube.com/watch?v=E5wbrow870o)
